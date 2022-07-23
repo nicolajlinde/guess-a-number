@@ -1,6 +1,7 @@
 import random
 import art
 
+
 # Start of functions
 def attempt():
     global LIVES
